@@ -1,0 +1,2 @@
+# Automatic-street-light
+It contains the pdf of the group project that i performed. The idea is if there is no traffic all lights should turn off and also based on number of traffic street light must glow. It also pre-informs the passengers on road via dispay board the ammount of traffic on subsequent road and thus passenger may turn their path to avoid any traffic. It also had a customized app for Accident through which driver may send his location and other information based to concerning authorities. 
